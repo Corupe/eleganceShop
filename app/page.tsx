@@ -1,4 +1,3 @@
-import Header from "@/components/layout/header";
 import Hero from "@/components/sections/hero";
 import FeaturedProducts from "@/components/sections/featured-products";
 import CategoryShowcase from "@/components/sections/category-showcase";
